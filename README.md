@@ -18,3 +18,9 @@ Run the greeting script with Node:
 ```
 node greet.js
 ```
+
+Expected output:
+
+```
+Hello, World!
+```
